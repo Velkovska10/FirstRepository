@@ -1,0 +1,14 @@
+
+151069@lab200ab-ws37 MINGW64 ~/lab1 (master)
+$ notepad log.txt
+commit fd705497fa4c89e820e946218b8069079d8b6989 (HEAD -> master, logging)
+Author: angela.velkovska@students.finki.ukim.mk <angela.velkovska@students.finki.ukim.mk>
+Date:   Fri Mar 9 15:52:38 2018 +0100
+
+    modify l1.txt
+
+commit afcf26e51e96c3f741c6870a3d4d4bd1efaff0e6
+Author: angela.velkovska@students.finki.ukim.mk <angela.velkovska@students.finki.ukim.mk>
+Date:   Fri Mar 9 15:48:27 2018 +0100
+
+    Initial commit
